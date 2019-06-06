@@ -3,7 +3,8 @@
 #include <windows.h>
 #include <locale.h>
 /*Feito por:
-Guilherme Maiuri*/
+Guilherme Maiuri
+Ian Heski */
 
 int pontos_P1;
 int pontos_P2;
